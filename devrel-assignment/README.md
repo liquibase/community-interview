@@ -1,9 +1,9 @@
 # Developer Relations Homework Assignment
 
-You have 7 days to complete the following homework assignment in preparation for a team interview. 
+You have seven (7) days to complete the following homework assignment in preparation for a team interview. 
 * Complete each task using your desired tools *(if needed, some suggestions are listed below)*
-* Post the completed deliverable to a publicly available location on the Internet.
-* Send us the links to these 3 tasks so we can review them prior to the intervew.
+* Post each completed deliverable to a publicly available location on the Internet.
+* Send us the links to these three (3) tasks so we can review them prior to the intervew.
 
 ## Task 1: Create a short blog post
 *Suggested Tools/Platforms: Medium.com, Wordpress.com*
