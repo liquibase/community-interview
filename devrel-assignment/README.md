@@ -28,4 +28,4 @@ For this exercise, again, let the Internet be your guide.
 ## Task 3: Create a short video
 *Suggested Tools/Platforms: Loom, Zoom, YouTube*
 
-Based on your written tutorial, create a short and engaging how-to video.
+Based on your written tutorial from the second task, create a short and engaging how-to video.
