@@ -1,10 +1,12 @@
 # Interview homework assignment
 
-This is the repository for Liquibase Community interview homework assignments. Each subfolder contains an individual assignment. During our interview process, we give candidates one of these assignments and let them work on it for a week offline. Our follow-up interview will discuss the solution the candidate built.
+This is the repository containing homework assignment for Liquibase Community interviews. Each subfolder contains an individual assignment. During our interview process, we'll give you one of these assignments and let you work on it for a week offline. Our follow-up interview will discuss the solution the you built.
 
 ## Why we open source
 
-Liquibase is an open source project and we believe in building in public. These homework assignments are challenging, but they represent the type of work we'd expect you to do in your new Liquibase community role. Plus,
+Liquibase is an open source project and we believe in building in public. These homework assignments are challenging, but they represent the type of work we'd expect you to do in your new Liquibase community role.
+
+Plus,
 * Open sourcing our assignments makes it easy for people to suggest improvements.
 * It's a convenient way to share assignments with candiates.
 
