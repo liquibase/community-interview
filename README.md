@@ -1,4 +1,4 @@
-# Interview homework assignment
+## Interview homework assignment
 
 This is the repository containing homework assignment for Liquibase Community interviews. Each subfolder contains an individual assignment. During our interview process, we'll give you one of these assignments and let you work on it for a week offline. Our follow-up interview will discuss the solution the you built.
 
