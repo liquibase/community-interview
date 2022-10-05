@@ -8,7 +8,7 @@ Liquibase is an open source project and we believe in building in public. These 
 
 Plus,
 * Open sourcing our assignments makes it easy for people to suggest improvements.
-* It's a convenient way to share assignments with candiates.
+* It's a convenient way to share assignments with candidates.
 
 ## FAQ
 
