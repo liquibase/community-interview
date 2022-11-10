@@ -5,7 +5,9 @@ You have seven (7) days to complete the following homework assignment in prepara
 * Post each completed deliverable to a publicly available location on the Internet.
 * Send us the links to these three (3) tasks so we can review them prior to the team intervew.
 
-## Task 1: Create a short blog post (content length: 5 minute reading)
+## Task 1: Create a short blog post
+*content length: 2-5 minute reading*
+
 *Suggested Tools/Platforms: Medium.com, Wordpress.com*
 
 Perform your own research about Liquibase to understand:
@@ -17,7 +19,9 @@ Write a short blog post for one type of user that you identified as the target a
 Explain the problem(s) in a way that resonates with the audience and the benefits 
 Liquibase brings to the problem(s).
 
-## Task 2: Create a tutorial (content length: 10-15 minute reading)
+## Task 2: Create a tutorial
+*content length: 10-15 minute reading*
+
 *Suggested Tools/Platforms: Medium.com, Wordpress.com*
 
 Liquibase can be used by different types of developers, in manual and automated ways, across 50+ database platforms.
@@ -25,7 +29,9 @@ Liquibase can be used by different types of developers, in manual and automated 
 Pick one type of user and create a guide that outlines the step-by-step process for getting them started using Liquibase.
 For this exercise, again, let the Internet be your guide.
 
-## Task 3: Create a short video (content length: 5 minute video)
+## Task 3: Create a short video
+*content length: 5 minute video*
+
 *Suggested Tools/Platforms: Loom, Zoom, YouTube*
 
 Based on your written tutorial from the second task, create a short and engaging how-to video.
