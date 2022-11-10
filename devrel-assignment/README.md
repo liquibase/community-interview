@@ -1,4 +1,4 @@
-# Developer Relations Homework Assignment
+# Community Homework Assignment
 
 You have seven (7) days to complete the following homework assignment in preparation for a team interview. 
 * Complete each task using your desired tools *(if needed, some suggestions are listed below)*
